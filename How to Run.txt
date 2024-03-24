@@ -1,5 +1,0 @@
-1) Word File Provided is step by step process of creating flask app and implmenting API of GITHUB
-2) First Run GitAccessToken.py file on python and provide it with client id and secret key of app
-3) It will return access token on localhost.com:8000
-4) Now use that token and run GitRepo.py file on python
-5) Provide the username and Name and Description of Repo 
